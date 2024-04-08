@@ -1,0 +1,1 @@
+SELECT AVG(assessment) AS averageAss FROM assessment_table_1;
